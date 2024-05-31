@@ -1,0 +1,19 @@
+Gatsby:
+
+
+# Basic
+-> Tạo 1 dự án gatsby rất đơn giản với gatsby-cli(nhanh hơn CRA) và sau đó cứ code React như bth.
+Pattern thường dùng cho Gatsby: Cách mà ta code sao cho pages được xử lý khác nhau, fetch data lúc build time hay call data lúc run time
+
+
+
+
+# Phân biệt các framework
+
+
+
+# Other
+
+
+
+
