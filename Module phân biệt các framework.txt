@@ -59,3 +59,5 @@ Có hệ thống module lớn, cả npm. VD làm chức năng đăng nhập ph�
 -> Preact là một thư viện JavaScript, được tuyên bố là 1 giải pháp thay thế 3kB nhanh cho React với cùng một API hiện đại của ES2015. Nó giúp phát triển virtual DOM nhanh nhất so với các frameworks khác và là một trong những thư viện có kích thước nhỏ nhất chỉ với 3kb. Nó tương tự React nhưng performance được cải thiện. VD ta dùng ứng dụng qua browser trên mobile nhưng tốc độ nó cứ như là dùng mobile app trực tiếp tải về v. 
 Có nhiều nguyên nhân khiến cho tốc độ và kích thước được cải thiện khi dùng Preact ta k đi sâu. Có thể chuyển 1 website bằng React thuần sang Preact thoải mái nhưng sẽ phải fix nhiều lỗi mò thủ công vì vấn đề về mặt tương thích
 
+-> Astro: Framework FE cho web tĩnh, tối ưu performance bằng cách giảm thiểu JS, chỉ gửi những phần cần thiết đến trình duyệt. Nên dùng khi tạo web tĩnh còn Gatsby chỉ dùng khi cần dùng GraphQL.
+
